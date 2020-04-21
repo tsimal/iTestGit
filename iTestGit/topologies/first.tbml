@@ -6,7 +6,7 @@
     <property name="author">TSimal</property>
     <property name="dateCreated">2020-04-21T13:06:33.219+02:00</property>
     <property name="notes"/>
-    <property name="dateModified">2020-04-21T13:06:47.535+02:00</property>
+    <property name="dateModified">2020-04-21T13:08:07.683+02:00</property>
     <property name="creationTool" vendor="com.fnfr">com.fnfr.itest.topology.tbml.diagram</property>
     <property name="creationToolVersion" vendor="com.fnfr">8.1.0.201911080855</property>
   </header>
@@ -16,12 +16,18 @@
         <boundary height="100" width="100" x="1144" y="465"/>
         <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/hub_32.gif</property>
         <property name="name">hub1</property>
-        <property name="inventoryName"></property>
+        <property name="inventoryName"/>
       </resource>
       <resource guid="5f689a83-3be3-4c65-9f58-fa394d6dc19d" id="resource_1" type="server">
         <boundary height="100" width="100" x="1334" y="673"/>
         <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/server_32.gif</property>
         <property name="name">server1</property>
+        <property name="inventoryName"/>
+      </resource>
+      <resource guid="d42dc3ec-ee2b-4661-833a-92c9edad5fab" id="resource_2" type="bridge">
+        <boundary height="100" width="100" x="656" y="232"/>
+        <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/bridge_32.gif</property>
+        <property name="name">bridge1</property>
         <property name="inventoryName"></property>
       </resource>
     </resources>
