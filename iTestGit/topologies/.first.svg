@@ -30,6 +30,15 @@
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath9">
                 <path d="M32 83 L88 83 L88 106 L32 106 L32 83 Z"/>
             </clipPath>
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath10">
+                <path d="M240 195 L342 195 L342 297 L240 297 L240 195 Z"/>
+            </clipPath>
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath11">
+                <path d="M280 217 L301 217 L301 244 L280 244 L280 217 Z"/>
+            </clipPath>
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath12">
+                <path d="M256 269 L325 269 L325 292 L256 292 L256 269 Z"/>
+            </clipPath>
         </defs>
         <g font-size="18" fill="white" font-family="'Segoe UI'" stroke-linejoin="round" stroke="white" stroke-width="0" stroke-miterlimit="0">
             <rect x="498" y="243" clip-path="url(#clipPath1)" width="100" height="100" stroke="none"/>
@@ -46,6 +55,10 @@
             <rect x="10" y="10" clip-path="url(#clipPath7)" fill="none" width="99" height="99"/>
             <image x="50" y="36" clip-path="url(#clipPath8)" width="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABs0lEQVR42sVTOUvE&#13;&#10;QBT+crgraliCyuKBgjaCoK2CsoeFiAoWKggqwmIhWIiIoJ2NpUVc+/0FdjbrzxAv&#13;&#10;BF22EtYryZpozOHMJGY9C7HwwTdvhsf75r3vzXCe5+EvxuOPJtIlnz/0FEWBYRjg&#13;&#10;eT4Ex3EEbx4gq59FnGW9IJ1O+gS5XA6q+sBiMSnGvCAKEHgBvEDIKAnPMc/yKVst&#13;&#10;cHJ85rdQLBbxJoWa6IM6MwHHduC4TqVXkqwl+nE3Nc7OkWiUVcUI6E0U1KzhFMy5&#13;&#10;6W/7pQS3k2MI+yAQw5Ko0SocF7Dt7xULYqZpwiB4NwUvALFnCzCfgN7uD7l6Rxue&#13;&#10;m+J+DJTHZmAVuK6fXD0zCcsgzPojSkODaKSXBgT07Houi5WHk8D+QWWMlmXBXl2G&#13;&#10;0dMF5+gUwoMGp6UJ1/OftLi5Z+4+NQDUN0DcyfoEuq4BW9so6zpiS4sQPA53yt4X&#13;&#10;CepGRxDp7EBpbQN1klSpQCOJrH0ijCSTd9AcR/n84gtBzcIs0N7KRHQDzRiBLMu4&#13;&#10;urwE/ReFtc0fn21hZT3c0ymIVaI/hWx2F5HqKBHY/BUymQy4f/+Nr40Mw80y3iJq&#13;&#10;AAAAAElFTkSuQmCC" xlink:type="simple" xlink:actuate="onLoad" height="16" preserveAspectRatio="none" xlink:show="embed"/>
             <text x="33" font-size="16" y="102" clip-path="url(#clipPath9)" fill="black" stroke="none" xml:space="preserve">bridge1</text>
+            <rect x="241" y="196" clip-path="url(#clipPath10)" fill="white" width="100" height="100" stroke="none"/>
+            <rect x="241" y="196" clip-path="url(#clipPath10)" fill="none" width="99" height="99"/>
+            <image x="281" y="222" clip-path="url(#clipPath11)" width="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACCUlEQVR42sWTTWgT&#13;&#10;QRTHf8lmEzRtE5CCH7QeeqtQwW+sIIIWoVAUL6KXkoOXYvGgh3rw4k3QowiC0CBF&#13;&#10;RKHVHmy1aIJQlLYKamnBkLYhhwaTmmyyH9l019lOCeaiQg8+eLMzszu/+b/39vlc&#13;&#10;12Ur5meLFvCGZDLpjr0Yp1Ip//NBT/jlSxcl4NXEJN++fsGuVrG7OrGPHmL7w/hf&#13;&#10;IW/fJSQgt5pDVQLog/3ofWdBgIqnT4oXBVjOwkKK5o8zNGnFBkAhX5AAv99HMBSk&#13;&#10;Nf6USiaLfqCLlpevwbbBtEA3UW2LzJUYe56PEijLUC3LkoCNZChyGkl+2HC7dQe5&#13;&#10;gX5Yd4QiAaoY+IMhshfOEZ5K4MzOCqG2BLiOK1Q0FkQVN0cfPWnYS/WcIpxaZmV+&#13;&#10;nkipRCQalYByWUPXdYJ728ge3I/V10PTg2EZp2ljpldQFxYJTU5R81RuAushpNNL&#13;&#10;FNfW+NnZQe78GZygSveJYzKkTV8aHKJZHPjdNE2TAE0roRtCwcgzdo9P0Hb9Gplb&#13;&#10;t7GOH5YF9/LQvpNiby/azJzI0XsU8b0/oEhASZAsw5BY8fx+4ybV7iN03L9Xv23u&#13;&#10;R15IzbBLzL1ibhsdw8GVAEVRMEyThr54k2CxfV99GRbecvcO+ccjqJ8+o/tElddr&#13;&#10;shfi8WHxH4QExPijrw5cpTY9LddCaSwWw/ffu/EXgeD5LRhrmLMAAAAASUVORK5C&#13;&#10;YII=" xlink:type="simple" xlink:actuate="onLoad" height="16" preserveAspectRatio="none" xlink:show="embed"/>
+            <text x="257" font-size="16" y="288" clip-path="url(#clipPath12)" fill="black" stroke="none" xml:space="preserve">gateway1</text>
         </g>
     </g>
 </svg>
