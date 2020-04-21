@@ -6,18 +6,12 @@
     <property name="author">TSimal</property>
     <property name="dateCreated">2020-04-21T13:06:33.219+02:00</property>
     <property name="notes"/>
-    <property name="dateModified">2020-04-21T14:15:26.392+02:00</property>
+    <property name="dateModified">2020-04-21T14:18:37.160+02:00</property>
     <property name="creationTool" vendor="com.fnfr">com.fnfr.itest.topology.tbml.diagram</property>
     <property name="creationToolVersion" vendor="com.fnfr">8.1.0.201911080855</property>
   </header>
   <body>
     <resources>
-      <resource guid="165dddc8-493e-4a4f-881b-268424837020" id="resource_0" type="hub">
-        <boundary height="100" width="100" x="1144" y="465"/>
-        <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/hub_32.gif</property>
-        <property name="name">hub1</property>
-        <property name="inventoryName"/>
-      </resource>
       <resource guid="5f689a83-3be3-4c65-9f58-fa394d6dc19d" id="resource_1" type="server">
         <boundary height="100" width="100" x="1334" y="673"/>
         <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/server_32.gif</property>
